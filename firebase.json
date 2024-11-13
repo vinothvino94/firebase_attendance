@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "realtimedatabase-787a3",
+          "appId": "1:986982421255:android:4ef2ff9eebb559ac746ba2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "realtimedatabase-787a3",
+          "configurations": {
+            "android": "1:986982421255:android:4ef2ff9eebb559ac746ba2",
+            "ios": "1:986982421255:ios:a957afe972f140dd746ba2",
+            "macos": "1:986982421255:ios:a957afe972f140dd746ba2",
+            "web": "1:986982421255:web:9415fa339f5f3e60746ba2",
+            "windows": "1:986982421255:web:5e1420628b2e20c6746ba2"
+          }
+        }
+      }
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
